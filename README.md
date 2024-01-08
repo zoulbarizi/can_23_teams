@@ -1,8 +1,7 @@
 # can_23_teams
-<video controls autoplay>
-  <source src="/can_23_teams.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+  <img src="/can_23_teams.gif"> </img>
+
 A new Flutter project.
 
 ## Getting Started
