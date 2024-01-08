@@ -1,6 +1,6 @@
 # can_23_teams
 
-  <img src="can_23_teams.gif"> </img>
+  <img src="/can_23_teams.gif"> </img>
 
 A new Flutter project.
 
